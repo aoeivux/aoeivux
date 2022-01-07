@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on go and nvim
+🌱 I’m currently learning the things i loved
+👯 I’m looking to collaborate on ..
+🤔 I’m looking for help with building a peaceful code
+💬 Ask me about ...
+📫 How to reach me: ...
+😄 Pronouns: ..
+⚡ Fun fact: music、travel、nvim、go and family！
 <!--
 **aoeivux/aoeivux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
