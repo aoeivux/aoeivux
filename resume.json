@@ -8,7 +8,7 @@
         "workList": "个人作品",
         "aboutme": "自我介绍"
     },
-    "avatar": { "hidden": false, "shape": "circle" },
+    "avatar": { "hidden": false, "shape": "square" },
     "profile": {
         "name": "祝永星",
         "email": "aoeivux@foxmail.com",
