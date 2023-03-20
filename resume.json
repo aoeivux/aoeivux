@@ -1,0 +1,107 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": { "hidden": false, "shape": "circle" },
+    "profile": {
+        "name": "祝永星",
+        "email": "aoeivux@foxmail.com",
+        "mobile": "15519810692",
+        "github": "https://github.com/aoeivux",
+        "zhihu": "",
+        "workExpYear": "",
+        "workPlace": "北京、上海、广州、重庆、成都",
+        "positionTitle": "大数据开发工程师"
+    },
+    "educationList": [
+        {
+            "edu_time": ["2020.09.01", "2024.06.30"],
+            "school": "郑州轻工业大学",
+            "major": "数据科学与大数据技术",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [
+        { "award_info": "英语 CET4", "award_time": "2021", "dataIndex": 0 },
+        {
+            "award_info": "河南省电信和互联网行业大数据分析职业技能竞赛铜牌",
+            "award_time": "2022.10",
+            "dataIndex": 1
+        }
+    ],
+    "workExpList": [],
+    "skillList": [
+        {
+            "skill_name": "Java基础1",
+            "skill_level": null,
+            "skill_desc": "Java基础扎实，理解并熟悉Java多线程以及线程池、JUC并发编程、集合框架、IO类、Socket编程、NIO技术等。",
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "Java基础3（JVM）",
+            "skill_level": null,
+            "skill_desc": "深入了解JVM虚拟机：内存模型、GC、垃圾回收算法、以及CMS、G1、Shenandoah、Epsilon垃圾收集器。",
+            "dataIndex": 1
+        },
+        {
+            "skill_name": "Java基础2",
+            "skill_level": null,
+            "skill_desc": "熟悉JMM、线程通信线程安全、锁、原子类、阻塞队列、并发容器、线程池原理。",
+            "dataIndex": 2
+        },
+        {
+            "skill_name": "MySQL",
+            "skill_level": null,
+            "skill_desc": "了解Oracle、MongoDB、Redis，熟悉 MySql的底层结构、存储引擎、事务隔离级别、索引;",
+            "dataIndex": 9
+        },
+        {
+            "skill_name": "框架",
+            "skill_desc": "理解并能使用Netty、Spring、SpringMVC、SpringBoot、SpringCloud Mybaits-Plus、SpringSecurity等框架。",
+            "dataIndex": 4
+        },
+        {
+            "skill_name": "大数据组件",
+            "skill_desc": "了解Hadoop、Hive、Hbase、Spark、Flink、Kafka大数据分布式开发工具。",
+            "skill_level": null,
+            "dataIndex": 4
+        },
+        {
+            "skill_name": "基础语言",
+            "skill_level": null,
+            "skill_desc": "了解并掌握C++、Scala、Python、SQL、GO等编程语言，能在Unix和Linux进行开发。",
+            "dataIndex": 5
+        },
+        {
+            "skill_name": "408基础",
+            "skill_level": null,
+            "skill_desc": "熟悉计算机网络、操作系统、计算机组成原理、数据结构与算法等系统知识。",
+            "dataIndex": 5
+        },
+        {
+            "skill_name": "Ajax、JQuery",
+            "skill_level": null,
+            "skill_desc": "了解并使用HTML、CSS、JavaScript、TypeScript、Vue2/3、Ajax、jQuery、 ElementUI、EasyUI等前台开发技术。",
+            "dataIndex": 7
+        },
+        {
+            "skill_name": "项目",
+            "skill_desc": "熟练使用NeoVim、Vscode、Eclipse、IDEA、SVN、Maven、Git进行项目管理、项目构建和版本控制。",
+            "dataIndex": 8,
+            "skill_level": null
+        }
+    ],
+    "projectList": [],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "1、自驱型开发人员，有时间观念，虚心好学，性格开朗，吃苦耐劳，为人勤奋，踏实上进；\n2、自学能力强，能快速接受使用新知识；良好的分析解决问题能力，和自我管理能力；\n3、能够在生活中和工作上分析和顾全大局；具有面向对象设计思想，具备独立分析和解决问题的能力；\n4、有较好的团队协作和沟通能力，有强烈的责任心。具有良好的沟通表达、团队协作能力；\n5、有较强的学习能力和探索精神，责任心强；善于与人沟通并处理同学和朋友间的关系；\n"
+    },
+    "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}
